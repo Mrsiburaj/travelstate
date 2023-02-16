@@ -1,4 +1,4 @@
-# travelstate
+# Tour-Project
 Live-link-> https://travelstate.epizy.com/
  Tour & Travel Project (Using Html, Css, Php, Javascript).
 

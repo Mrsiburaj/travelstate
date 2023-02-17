@@ -351,9 +351,10 @@ display: inline-block;
   margin-left: 203px;
   display: inline-block;
   cursor: pointer;
+  border-radius: 10px;
   
 }
-.btn-1:hover a{
+.btn-1:hover {
 color: #f4eeee;  
 }
 .btn-1:hover{
